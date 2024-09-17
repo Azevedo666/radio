@@ -1,0 +1,30 @@
+#EXTM3U
+
+
+#EXTINF: -1 tvg-logo="https://cidade.fm/images/capa-indisponivel.jpg" ,Cidade FM
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/cidade.mp3?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQNlsOidjl_UJO5fM9qKffSUr7uloTVKF1qA&s" ,RFM
+#EXTVLCOPT:network-caching=1000
+https://25643.live.streamtheworld.com/RFMAAC_SC
+
+#EXTINF: -1 tvg-logo="https://souma.eu/wp-content/uploads/2021/03/news_24_03_2021.jpg" ,M80
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/m80.mp3
+
+#EXTINF: -1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mrXTymiN_YAscOPm4rC2qGTTTb0iM9HIHBtZpQ0ImMlOs=s900-c-k-c0x00ffffff-no-rj" ,Radio Comercial
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/comercial.mp3
+
+#EXTINF: -1 tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjY0vBTm0RaNY4JAm9bg9NZ9oeC4QFQE8lOqdJcDFBt04L+11cLhF82g+Ge74KF0sWEiuwMQcPRCalhnX+XPZbRcNRhLm/6dheftSEZn+D3hBJ8=" ,RADIO RENASCENCA
+#EXTVLCOPT:network-caching=1000
+https://25433.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC?dist=triton-widget&pname=tdwidgets
+
+#EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_positivo_vert_RGB.png" ,Antena 1
+#EXTVLCOPT:network-caching=1000
+https://radiocast.rtp.pt/antena180a.mp3
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/TSF_RN.png" ,TSF
+#EXTVLCOPT:network-caching=1000
+https://tsfdirecto.tsf.pt/tsfdirecto.mp3
